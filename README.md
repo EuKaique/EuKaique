@@ -5,5 +5,7 @@
 - 🤝 Estou interessado em novos desafios ^^
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=EuKaique&theme=tokyonight)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EuKaique&langs_count=3&theme=tokyonight)<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://camo.githubusercontent.com/bd640e376ea46e40de049cbe62de14f7b0a643f15955a8be3fb921e658ffd7c4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d746574657573617261756a6f266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuKaique&layout=compact&theme=tokyonight" style="max-width:100%;">
+</a>  <br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kaique-oliveira-santos-0806a6a3/)
