@@ -1,6 +1,6 @@
 ###  Olá <img src="https://user-images.githubusercontent.com/34290569/108864542-0e17fd80-75d1-11eb-8e1d-3b0b4a5ceea7.gif" height="24px" width="24px" />
 
-- 🔭 Trabalho com Projetos Front-end e Back-end, criação de web sites, layouts, consumo de Api's. 
+- 🔭 Trabalho com Projetos Front-end e Back-end, criação de web sites e consumo de Api's. 
 - 🌱 Ampliando o aprendizado em tecnologias(HTML, CSS, JavaScript, PHP e Banco de dados(SQL e NoSQL))
 - 🤝 Podemos trabalhar juntos?
 
