@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho com Front-end e Back-end. MVC - AUTH - CRUD - REST - API's  
 - 🌱 Tecnologias(HTML, CSS, Java Script, Node JS, Java, PHP, Laravel, React JS, Bootstrap, MySQL, PL/SQL, Mongo DB)
-- 🤝 Disponível para trabalhos - Senoridade Júnior
+- 🤝 Disponível para trabalhos
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=EuKaique&theme=tokyonight)
 <br>
