@@ -1,7 +1,7 @@
 ###  Olá, seja Bem vindo(a) <img src="https://user-images.githubusercontent.com/34290569/108864542-0e17fd80-75d1-11eb-8e1d-3b0b4a5ceea7.gif" height="24px" width="24px" />
 
 - 🔭 Desenvolvedor Web 
-- 🌱 Conhecimento em Html, Css, JavaScript, Jquery, PHP, Laravel, CodeIgniter, Bootstrap, MySQL e REST API
+- 🌱 Conhecimento em Html, Css, JavaScript, Jquery, PHP, Laravel, CodeIgniter, Bootstrap, MySQL, REST API's e Vue.JS
 - 🤝 Disponível para trabalhos
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=EuKaique&theme=tokyonight)
