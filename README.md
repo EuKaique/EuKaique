@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor Web 
 - 🌱 Html, Css, JavaScript, PHP 5x, Laravel 8x, Bootstrap 4x, Banco de dados SQL e NoSQL, REST API's, React.js e Vue.js
-- 🤝 Disponível para trabalhos freelance
+
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=EuKaique&theme=tokyonight)
 <br>
